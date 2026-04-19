@@ -1,0 +1,2562 @@
+[
+  {
+    "kata_baku": "Aberasi",
+    "kata_tidak_baku": "abrasi"
+  },
+  {
+    "kata_baku": "Absorpsi",
+    "kata_tidak_baku": "absorsi"
+  },
+  {
+    "kata_baku": "Adab",
+    "kata_tidak_baku": "adap"
+  },
+  {
+    "kata_baku": "Adhesi",
+    "kata_tidak_baku": "adesi"
+  },
+  {
+    "kata_baku": "Adibusana",
+    "kata_tidak_baku": "adi busana"
+  },
+  {
+    "kata_baku": "Adidaya",
+    "kata_tidak_baku": "adi daya"
+  },
+  {
+    "kata_baku": "Adjektif",
+    "kata_tidak_baku": "ajektif"
+  },
+  {
+    "kata_baku": "Administrator",
+    "kata_tidak_baku": "admin"
+  },
+  {
+    "kata_baku": "Advokat",
+    "kata_tidak_baku": "adpokat"
+  },
+  {
+    "kata_baku": "Afdal",
+    "kata_tidak_baku": "afdol"
+  },
+  {
+    "kata_baku": "Agamais",
+    "kata_tidak_baku": "agamis"
+  },
+  {
+    "kata_baku": "Ajek",
+    "kata_tidak_baku": "ajeg"
+  },
+  {
+    "kata_baku": "Akhirat",
+    "kata_tidak_baku": "akherat"
+  },
+  {
+    "kata_baku": "Aksesori",
+    "kata_tidak_baku": "asesoris"
+  },
+  {
+    "kata_baku": "Aktif",
+    "kata_tidak_baku": "aktip"
+  },
+  {
+    "kata_baku": "Aktivitas",
+    "kata_tidak_baku": "aktifitas"
+  },
+  {
+    "kata_baku": "Aktual",
+    "kata_tidak_baku": "aktuil"
+  },
+  {
+    "kata_baku": "Akuarium",
+    "kata_tidak_baku": "aquarium"
+  },
+  {
+    "kata_baku": "Aluminium",
+    "kata_tidak_baku": "almunium"
+  },
+  {
+    "kata_baku": "Ambulans",
+    "kata_tidak_baku": "ambulan"
+  },
+  {
+    "kata_baku": "Analisis",
+    "kata_tidak_baku": "analisa"
+  },
+  {
+    "kata_baku": "Andal",
+    "kata_tidak_baku": "handal"
+  },
+  {
+    "kata_baku": "Antena",
+    "kata_tidak_baku": "antene"
+  },
+  {
+    "kata_baku": "Antre",
+    "kata_tidak_baku": "antri"
+  },
+  {
+    "kata_baku": "Anugerah",
+    "kata_tidak_baku": "anugrah"
+  },
+  {
+    "kata_baku": "Aparat",
+    "kata_tidak_baku": "aparatur"
+  },
+  {
+    "kata_baku": "Apostrof",
+    "kata_tidak_baku": "opostrop"
+  },
+  {
+    "kata_baku": "Apotek",
+    "kata_tidak_baku": "apotik"
+  },
+  {
+    "kata_baku": "Asas",
+    "kata_tidak_baku": "azas"
+  },
+  {
+    "kata_baku": "Asasi",
+    "kata_tidak_baku": "azasi"
+  },
+  {
+    "kata_baku": "Atlet",
+    "kata_tidak_baku": "atlit"
+  },
+  {
+    "kata_baku": "Atmosfer",
+    "kata_tidak_baku": "atmosfir"
+  },
+  {
+    "kata_baku": "Auditorium",
+    "kata_tidak_baku": "aditorium"
+  },
+  {
+    "kata_baku": "Autentik",
+    "kata_tidak_baku": "otentik"
+  },
+  {
+    "kata_baku": "Autopsi",
+    "kata_tidak_baku": "otopsi"
+  },
+  {
+    "kata_baku": "Azan",
+    "kata_tidak_baku": "adzan"
+  },
+  {
+    "kata_baku": "Baka",
+    "kata_tidak_baku": "baqa"
+  },
+  {
+    "kata_baku": "Balig",
+    "kata_tidak_baku": "baligh"
+  },
+  {
+    "kata_baku": "Balsam",
+    "kata_tidak_baku": "balsem"
+  },
+  {
+    "kata_baku": "Banderol",
+    "kata_tidak_baku": "bandrol"
+  },
+  {
+    "kata_baku": "Barzakh",
+    "kata_tidak_baku": "barzah"
+  },
+  {
+    "kata_baku": "Batalion",
+    "kata_tidak_baku": "batalyon"
+  },
+  {
+    "kata_baku": "Baterai",
+    "kata_tidak_baku": "batere"
+  },
+  {
+    "kata_baku": "Batil",
+    "kata_tidak_baku": "bathil"
+  },
+  {
+    "kata_baku": "Bayangkara",
+    "kata_tidak_baku": "bhayangkara"
+  },
+  {
+    "kata_baku": "Bazar",
+    "kata_tidak_baku": "bazaar"
+  },
+  {
+    "kata_baku": "Becermin",
+    "kata_tidak_baku": "bercermin"
+  },
+  {
+    "kata_baku": "Bengkuang",
+    "kata_tidak_baku": "bengkoang"
+  },
+  {
+    "kata_baku": "Benzol",
+    "kata_tidak_baku": "bensol"
+  },
+  {
+    "kata_baku": "Besok",
+    "kata_tidak_baku": "esok"
+  },
+  {
+    "kata_baku": "Beterbangan",
+    "kata_tidak_baku": "berterbangan"
+  },
+  {
+    "kata_baku": "Biseps",
+    "kata_tidak_baku": "bisep"
+  },
+  {
+    "kata_baku": "Blanko",
+    "kata_tidak_baku": "blangko"
+  },
+  {
+    "kata_baku": "Blender",
+    "kata_tidak_baku": "belender"
+  },
+  {
+    "kata_baku": "Boks",
+    "kata_tidak_baku": "bok"
+  },
+  {
+    "kata_baku": "Bolpoin",
+    "kata_tidak_baku": "bolpen"
+  },
+  {
+    "kata_baku": "Bosan",
+    "kata_tidak_baku": "bosen"
+  },
+  {
+    "kata_baku": "Bumper",
+    "kata_tidak_baku": "bemper"
+  },
+  {
+    "kata_baku": "Bungker",
+    "kata_tidak_baku": "bangker"
+  },
+  {
+    "kata_baku": "Bus",
+    "kata_tidak_baku": "bis"
+  },
+  {
+    "kata_baku": "Cabai",
+    "kata_tidak_baku": "cabe"
+  },
+  {
+    "kata_baku": "Capai",
+    "kata_tidak_baku": "cape, capek"
+  },
+  {
+    "kata_baku": "Capcai",
+    "kata_tidak_baku": "cap cai"
+  },
+  {
+    "kata_baku": "Cedera",
+    "kata_tidak_baku": "cidera"
+  },
+  {
+    "kata_baku": "Cendekia",
+    "kata_tidak_baku": "cendikia"
+  },
+  {
+    "kata_baku": "Cendekiawan",
+    "kata_tidak_baku": "cendikiawan"
+  },
+  {
+    "kata_baku": "Cengkeram",
+    "kata_tidak_baku": "cengkram"
+  },
+  {
+    "kata_baku": "Cengkerama",
+    "kata_tidak_baku": "cengkrama"
+  },
+  {
+    "kata_baku": "Cengkih",
+    "kata_tidak_baku": "cengkeh"
+  },
+  {
+    "kata_baku": "Cinderamata",
+    "kata_tidak_baku": "cenderamata"
+  },
+  {
+    "kata_baku": "Cokelat",
+    "kata_tidak_baku": "coklat"
+  },
+  {
+    "kata_baku": "Daftar",
+    "kata_tidak_baku": "daptar"
+  },
+  {
+    "kata_baku": "Darma",
+    "kata_tidak_baku": "dharma"
+  },
+  {
+    "kata_baku": "Debit",
+    "kata_tidak_baku": "debet"
+  },
+  {
+    "kata_baku": "Debitor",
+    "kata_tidak_baku": "debitur"
+  },
+  {
+    "kata_baku": "Dekret",
+    "kata_tidak_baku": "dekrit"
+  },
+  {
+    "kata_baku": "Deodoran",
+    "kata_tidak_baku": "deodorant"
+  },
+  {
+    "kata_baku": "Depot",
+    "kata_tidak_baku": "depo"
+  },
+  {
+    "kata_baku": "Deputi",
+    "kata_tidak_baku": "deputy"
+  },
+  {
+    "kata_baku": "Derajat",
+    "kata_tidak_baku": "derajad"
+  },
+  {
+    "kata_baku": "Desain",
+    "kata_tidak_baku": "design"
+  },
+  {
+    "kata_baku": "Detail",
+    "kata_tidak_baku": "detil"
+  },
+  {
+    "kata_baku": "Detergen",
+    "kata_tidak_baku": "deterjen"
+  },
+  {
+    "kata_baku": "Deviasi",
+    "kata_tidak_baku": "defiasi"
+  },
+  {
+    "kata_baku": "Diagnosis",
+    "kata_tidak_baku": "diagnosa"
+  },
+  {
+    "kata_baku": "Dispenser",
+    "kata_tidak_baku": "despenser"
+  },
+  {
+    "kata_baku": "Distilasi",
+    "kata_tidak_baku": "destilasi"
+  },
+  {
+    "kata_baku": "Dividen",
+    "kata_tidak_baku": "deviden"
+  },
+  {
+    "kata_baku": "Donatur",
+    "kata_tidak_baku": "donator"
+  },
+  {
+    "kata_baku": "Durian",
+    "kata_tidak_baku": "duren"
+  },
+  {
+    "kata_baku": "Efektif",
+    "kata_tidak_baku": "efektip"
+  },
+  {
+    "kata_baku": "Efektivitas",
+    "kata_tidak_baku": "efektifitas"
+  },
+  {
+    "kata_baku": "Ekosistem",
+    "kata_tidak_baku": "ekosistim"
+  },
+  {
+    "kata_baku": "Eksem",
+    "kata_tidak_baku": "eksim"
+  },
+  {
+    "kata_baku": "Ekshibisi",
+    "kata_tidak_baku": "eksibisi"
+  },
+  {
+    "kata_baku": "Ekspor",
+    "kata_tidak_baku": "eksport"
+  },
+  {
+    "kata_baku": "Ekstra",
+    "kata_tidak_baku": "extra"
+  },
+  {
+    "kata_baku": "Ekstrakurikuler",
+    "kata_tidak_baku": "ekstrakulikuler"
+  },
+  {
+    "kata_baku": "Ekstrem",
+    "kata_tidak_baku": "ekstrim"
+  },
+  {
+    "kata_baku": "Ekuivalen",
+    "kata_tidak_baku": "ekwivalen, equivalen"
+  },
+  {
+    "kata_baku": "Elektrode",
+    "kata_tidak_baku": "elektroda"
+  },
+  {
+    "kata_baku": "Elips",
+    "kata_tidak_baku": "elip"
+  },
+  {
+    "kata_baku": "Elite",
+    "kata_tidak_baku": "elit"
+  },
+  {
+    "kata_baku": "Emas",
+    "kata_tidak_baku": "mas"
+  },
+  {
+    "kata_baku": "Embus",
+    "kata_tidak_baku": "hembus"
+  },
+  {
+    "kata_baku": "Empas",
+    "kata_tidak_baku": "hempas"
+  },
+  {
+    "kata_baku": "Enjin",
+    "kata_tidak_baku": "engine"
+  },
+  {
+    "kata_baku": "Ensiklopedia",
+    "kata_tidak_baku": "ensiklopedi"
+  },
+  {
+    "kata_baku": "Episode",
+    "kata_tidak_baku": "episod"
+  },
+  {
+    "kata_baku": "Epos",
+    "kata_tidak_baku": "ephos"
+  },
+  {
+    "kata_baku": "Esai",
+    "kata_tidak_baku": "essai"
+  },
+  {
+    "kata_baku": "Esens",
+    "kata_tidak_baku": "esen"
+  },
+  {
+    "kata_baku": "Eskadron",
+    "kata_tidak_baku": "sekuadron"
+  },
+  {
+    "kata_baku": "Etanol",
+    "kata_tidak_baku": "ethanol"
+  },
+  {
+    "kata_baku": "Fakih",
+    "kata_tidak_baku": "faqih"
+  },
+  {
+    "kata_baku": "Faksimili",
+    "kata_tidak_baku": "faksimil"
+  },
+  {
+    "kata_baku": "Familier",
+    "kata_tidak_baku": "familiar"
+  },
+  {
+    "kata_baku": "Farmakope",
+    "kata_tidak_baku": "farmakop"
+  },
+  {
+    "kata_baku": "Favorit",
+    "kata_tidak_baku": "pavorit"
+  },
+  {
+    "kata_baku": "Februari",
+    "kata_tidak_baku": "pebruari"
+  },
+  {
+    "kata_baku": "Feri",
+    "kata_tidak_baku": "peri"
+  },
+  {
+    "kata_baku": "Filipina",
+    "kata_tidak_baku": "philipina"
+  },
+  {
+    "kata_baku": "Film",
+    "kata_tidak_baku": "filem"
+  },
+  {
+    "kata_baku": "Filsuf",
+    "kata_tidak_baku": "filosof"
+  },
+  {
+    "kata_baku": "Finis",
+    "kata_tidak_baku": "finish"
+  },
+  {
+    "kata_baku": "Flat",
+    "kata_tidak_baku": "plat"
+  },
+  {
+    "kata_baku": "Folio",
+    "kata_tidak_baku": "polio"
+  },
+  {
+    "kata_baku": "Formal",
+    "kata_tidak_baku": "formil"
+  },
+  {
+    "kata_baku": "Foto",
+    "kata_tidak_baku": "photo"
+  },
+  {
+    "kata_baku": "Fotokopi",
+    "kata_tidak_baku": "foto copy"
+  },
+  {
+    "kata_baku": "Fotosintensis",
+    "kata_tidak_baku": "fotosintesa"
+  },
+  {
+    "kata_baku": "Frekuensi",
+    "kata_tidak_baku": "frekwensi"
+  },
+  {
+    "kata_baku": "Gaib",
+    "kata_tidak_baku": "ghaib"
+  },
+  {
+    "kata_baku": "Galaktosa",
+    "kata_tidak_baku": "galaktose"
+  },
+  {
+    "kata_baku": "Galeri",
+    "kata_tidak_baku": "galery"
+  },
+  {
+    "kata_baku": "Gap",
+    "kata_tidak_baku": "gep"
+  },
+  {
+    "kata_baku": "Geiser",
+    "kata_tidak_baku": "geyser"
+  },
+  {
+    "kata_baku": "Geladi bersih",
+    "kata_tidak_baku": "geladi resik"
+  },
+  {
+    "kata_baku": "Gelondong",
+    "kata_tidak_baku": "glondong"
+  },
+  {
+    "kata_baku": "Genealogi",
+    "kata_tidak_baku": "geneologi"
+  },
+  {
+    "kata_baku": "Genius",
+    "kata_tidak_baku": "jenius"
+  },
+  {
+    "kata_baku": "Genting",
+    "kata_tidak_baku": "genteng"
+  },
+  {
+    "kata_baku": "Gerebek",
+    "kata_tidak_baku": "grebek"
+  },
+  {
+    "kata_baku": "Gereget",
+    "kata_tidak_baku": "greget"
+  },
+  {
+    "kata_baku": "Gerendel",
+    "kata_tidak_baku": "grendel"
+  },
+  {
+    "kata_baku": "Gips",
+    "kata_tidak_baku": "gip"
+  },
+  {
+    "kata_baku": "Glamor",
+    "kata_tidak_baku": "glamour"
+  },
+  {
+    "kata_baku": "Glaukoma",
+    "kata_tidak_baku": "glukoma"
+  },
+  {
+    "kata_baku": "Glosarium",
+    "kata_tidak_baku": "glosary"
+  },
+  {
+    "kata_baku": "Glukosa",
+    "kata_tidak_baku": "glukose"
+  },
+  {
+    "kata_baku": "Gongseng",
+    "kata_tidak_baku": "ongseng"
+  },
+  {
+    "kata_baku": "Griya",
+    "kata_tidak_baku": "gria"
+  },
+  {
+    "kata_baku": "Grup",
+    "kata_tidak_baku": "group"
+  },
+  {
+    "kata_baku": "Gua",
+    "kata_tidak_baku": "goa"
+  },
+  {
+    "kata_baku": "Gubuk",
+    "kata_tidak_baku": "gubug"
+  },
+  {
+    "kata_baku": "Gudeg",
+    "kata_tidak_baku": "gudek"
+  },
+  {
+    "kata_baku": "Guncang",
+    "kata_tidak_baku": "goncang"
+  },
+  {
+    "kata_baku": "Hadis",
+    "kata_tidak_baku": "hadist"
+  },
+  {
+    "kata_baku": "Hafal",
+    "kata_tidak_baku": "hapal"
+  },
+  {
+    "kata_baku": "Hakikat",
+    "kata_tidak_baku": "hakekat"
+  },
+  {
+    "kata_baku": "Hal-hal",
+    "kata_tidak_baku": "hal-ihwal"
+  },
+  {
+    "kata_baku": "Hektare",
+    "kata_tidak_baku": "hektar"
+  },
+  {
+    "kata_baku": "Heterogen",
+    "kata_tidak_baku": "hetrogen"
+  },
+  {
+    "kata_baku": "Hidraulis",
+    "kata_tidak_baku": "hidrolis"
+  },
+  {
+    "kata_baku": "Hierarki",
+    "kata_tidak_baku": "hirarki"
+  },
+  {
+    "kata_baku": "Hieroglif",
+    "kata_tidak_baku": "hiroglif"
+  },
+  {
+    "kata_baku": "Higienis",
+    "kata_tidak_baku": "higenis"
+  },
+  {
+    "kata_baku": "Himne",
+    "kata_tidak_baku": "hymne"
+  },
+  {
+    "kata_baku": "Hipermetropia",
+    "kata_tidak_baku": "hipermetri"
+  },
+  {
+    "kata_baku": "Hipotek",
+    "kata_tidak_baku": "hipotik"
+  },
+  {
+    "kata_baku": "Hipotesis",
+    "kata_tidak_baku": "hipotesa"
+  },
+  {
+    "kata_baku": "Hipovitaminosis",
+    "kata_tidak_baku": "hipovitaminose"
+  },
+  {
+    "kata_baku": "Ibtidaiah",
+    "kata_tidak_baku": "ibtidaiyah"
+  },
+  {
+    "kata_baku": "Idah",
+    "kata_tidak_baku": "iddah"
+  },
+  {
+    "kata_baku": "Ideal",
+    "kata_tidak_baku": "idial"
+  },
+  {
+    "kata_baku": "Ideologi",
+    "kata_tidak_baku": "idiologi"
+  },
+  {
+    "kata_baku": "Ihwal",
+    "kata_tidak_baku": "ikhwal"
+  },
+  {
+    "kata_baku": "Ijazah",
+    "kata_tidak_baku": "ijasah"
+  },
+  {
+    "kata_baku": "Ikat",
+    "kata_tidak_baku": "iket"
+  },
+  {
+    "kata_baku": "Ikhlas",
+    "kata_tidak_baku": "ihlas"
+  },
+  {
+    "kata_baku": "Ilusi",
+    "kata_tidak_baku": "illusi"
+  },
+  {
+    "kata_baku": "Imbau",
+    "kata_tidak_baku": "himbau"
+  },
+  {
+    "kata_baku": "Impit",
+    "kata_tidak_baku": "himpit"
+  },
+  {
+    "kata_baku": "Impor",
+    "kata_tidak_baku": "import"
+  },
+  {
+    "kata_baku": "Indra",
+    "kata_tidak_baku": "indera"
+  },
+  {
+    "kata_baku": "Influenza",
+    "kata_tidak_baku": "influensa"
+  },
+  {
+    "kata_baku": "Inframerah",
+    "kata_tidak_baku": "infra merah"
+  },
+  {
+    "kata_baku": "Infus",
+    "kata_tidak_baku": "inpus"
+  },
+  {
+    "kata_baku": "Ingar-bingar",
+    "kata_tidak_baku": "hingar-bingar"
+  },
+  {
+    "kata_baku": "Inkam",
+    "kata_tidak_baku": "income"
+  },
+  {
+    "kata_baku": "Inkognito",
+    "kata_tidak_baku": "incognito"
+  },
+  {
+    "kata_baku": "Insting",
+    "kata_tidak_baku": "instink"
+  },
+  {
+    "kata_baku": "Intelijen",
+    "kata_tidak_baku": "inteligen"
+  },
+  {
+    "kata_baku": "Intens",
+    "kata_tidak_baku": "inten"
+  },
+  {
+    "kata_baku": "Interogasi",
+    "kata_tidak_baku": "interograsi"
+  },
+  {
+    "kata_baku": "Introspeksi",
+    "kata_tidak_baku": "interopeksi"
+  },
+  {
+    "kata_baku": "Isap",
+    "kata_tidak_baku": "hisap"
+  },
+  {
+    "kata_baku": "Izin",
+    "kata_tidak_baku": "ijin"
+  },
+  {
+    "kata_baku": "Jadwal",
+    "kata_tidak_baku": "jadual"
+  },
+  {
+    "kata_baku": "Jagat",
+    "kata_tidak_baku": "jagad"
+  },
+  {
+    "kata_baku": "Jahiliah",
+    "kata_tidak_baku": "jahiliyah"
+  },
+  {
+    "kata_baku": "Jajar",
+    "kata_tidak_baku": "jejer"
+  },
+  {
+    "kata_baku": "Jamaah",
+    "kata_tidak_baku": "jemaah"
+  },
+  {
+    "kata_baku": "Jenderal",
+    "kata_tidak_baku": "jendral"
+  },
+  {
+    "kata_baku": "Jenius",
+    "kata_tidak_baku": "genius"
+  },
+  {
+    "kata_baku": "Jerapah",
+    "kata_tidak_baku": "zarafah"
+  },
+  {
+    "kata_baku": "Jeriken",
+    "kata_tidak_baku": "jerigen"
+  },
+  {
+    "kata_baku": "Jip",
+    "kata_tidak_baku": "jeep"
+  },
+  {
+    "kata_baku": "Joging",
+    "kata_tidak_baku": "jogging"
+  },
+  {
+    "kata_baku": "Join",
+    "kata_tidak_baku": "joint"
+  },
+  {
+    "kata_baku": "Jorjoran",
+    "kata_tidak_baku": "jor-joran"
+  },
+  {
+    "kata_baku": "Jubileum",
+    "kata_tidak_baku": "jubilum"
+  },
+  {
+    "kata_baku": "Judo",
+    "kata_tidak_baku": "yudo"
+  },
+  {
+    "kata_baku": "Jujitsu",
+    "kata_tidak_baku": "jiujitsu"
+  },
+  {
+    "kata_baku": "Junior",
+    "kata_tidak_baku": "yunior"
+  },
+  {
+    "kata_baku": "Junktur",
+    "kata_tidak_baku": "jungtur"
+  },
+  {
+    "kata_baku": "Juz",
+    "kata_tidak_baku": "jus"
+  },
+  {
+    "kata_baku": "Kacamata",
+    "kata_tidak_baku": "kaca mata"
+  },
+  {
+    "kata_baku": "Kafah",
+    "kata_tidak_baku": "kaffah"
+  },
+  {
+    "kata_baku": "Kafetaria",
+    "kata_tidak_baku": "cafetaria"
+  },
+  {
+    "kata_baku": "Kaidah",
+    "kata_tidak_baku": "kaedah"
+  },
+  {
+    "kata_baku": "Kaleidoskop",
+    "kata_tidak_baku": "kaleidioskop"
+  },
+  {
+    "kata_baku": "Kalkarium",
+    "kata_tidak_baku": "kalkarim"
+  },
+  {
+    "kata_baku": "Kamerawan",
+    "kata_tidak_baku": "kameramen"
+  },
+  {
+    "kata_baku": "Kamuflase",
+    "kata_tidak_baku": "kamuplase"
+  },
+  {
+    "kata_baku": "Kanguru",
+    "kata_tidak_baku": "kangguru"
+  },
+  {
+    "kata_baku": "Kanker",
+    "kata_tidak_baku": "kangker"
+  },
+  {
+    "kata_baku": "Kantong",
+    "kata_tidak_baku": "kantung"
+  },
+  {
+    "kata_baku": "Karburasi",
+    "kata_tidak_baku": "kaburasi"
+  },
+  {
+    "kata_baku": "Karburator",
+    "kata_tidak_baku": "kaburator"
+  },
+  {
+    "kata_baku": "Karena",
+    "kata_tidak_baku": "karna"
+  },
+  {
+    "kata_baku": "Karier",
+    "kata_tidak_baku": "karir"
+  },
+  {
+    "kata_baku": "Karisma",
+    "kata_tidak_baku": "kharisma"
+  },
+  {
+    "kata_baku": "Karismatik",
+    "kata_tidak_baku": "kharismatik"
+  },
+  {
+    "kata_baku": "Kasip",
+    "kata_tidak_baku": "kasep"
+  },
+  {
+    "kata_baku": "Kategori",
+    "kata_tidak_baku": "katagori"
+  },
+  {
+    "kata_baku": "Katering",
+    "kata_tidak_baku": "catering"
+  },
+  {
+    "kata_baku": "Kaus",
+    "kata_tidak_baku": "kaos"
+  },
+  {
+    "kata_baku": "Kayangan",
+    "kata_tidak_baku": "khayangan"
+  },
+  {
+    "kata_baku": "Kedaluwarsa",
+    "kata_tidak_baku": "kadaluwarsa"
+  },
+  {
+    "kata_baku": "Kemarin",
+    "kata_tidak_baku": "kemaren"
+  },
+  {
+    "kata_baku": "Kemboja",
+    "kata_tidak_baku": "kamboja"
+  },
+  {
+    "kata_baku": "Kepok",
+    "kata_tidak_baku": "gepok"
+  },
+  {
+    "kata_baku": "Kesatria",
+    "kata_tidak_baku": "ksatria"
+  },
+  {
+    "kata_baku": "Khawatir",
+    "kata_tidak_baku": "kuatir"
+  },
+  {
+    "kata_baku": "Klab",
+    "kata_tidak_baku": "club"
+  },
+  {
+    "kata_baku": "Kles",
+    "kata_tidak_baku": "clash"
+  },
+  {
+    "kata_baku": "Klien",
+    "kata_tidak_baku": "clien, client"
+  },
+  {
+    "kata_baku": "Klor",
+    "kata_tidak_baku": "chlor"
+  },
+  {
+    "kata_baku": "Klub",
+    "kata_tidak_baku": "club"
+  },
+  {
+    "kata_baku": "Koboi",
+    "kata_tidak_baku": "koboy"
+  },
+  {
+    "kata_baku": "Komoditas",
+    "kata_tidak_baku": "komoditi"
+  },
+  {
+    "kata_baku": "Kompleks",
+    "kata_tidak_baku": "komplek"
+  },
+  {
+    "kata_baku": "Komplet",
+    "kata_tidak_baku": "komplit"
+  },
+  {
+    "kata_baku": "Konferensi",
+    "kata_tidak_baku": "konperensi"
+  },
+  {
+    "kata_baku": "Kongres",
+    "kata_tidak_baku": "konggres"
+  },
+  {
+    "kata_baku": "Konkret",
+    "kata_tidak_baku": "kongkret"
+  },
+  {
+    "kata_baku": "Koper",
+    "kata_tidak_baku": "kopor"
+  },
+  {
+    "kata_baku": "Kosakata",
+    "kata_tidak_baku": "kosa kata"
+  },
+  {
+    "kata_baku": "Kover",
+    "kata_tidak_baku": "cover"
+  },
+  {
+    "kata_baku": "Kreatif",
+    "kata_tidak_baku": "kreatip"
+  },
+  {
+    "kata_baku": "Kreativitas",
+    "kata_tidak_baku": "kreatifitas"
+  },
+  {
+    "kata_baku": "Kualitas",
+    "kata_tidak_baku": "kwalitas"
+  },
+  {
+    "kata_baku": "Kuantitas",
+    "kata_tidak_baku": "kwantitas"
+  },
+  {
+    "kata_baku": "Kuesioner",
+    "kata_tidak_baku": "kuisioner"
+  },
+  {
+    "kata_baku": "Kuintal",
+    "kata_tidak_baku": "kwintal"
+  },
+  {
+    "kata_baku": "Kuota",
+    "kata_tidak_baku": "kwota"
+  },
+  {
+    "kata_baku": "Lafal",
+    "kata_tidak_baku": "lapal, rapal"
+  },
+  {
+    "kata_baku": "Lamtaragung",
+    "kata_tidak_baku": "lamtorogung"
+  },
+  {
+    "kata_baku": "Laskar",
+    "kata_tidak_baku": "lasykar"
+  },
+  {
+    "kata_baku": "Lazim",
+    "kata_tidak_baku": "lajim, lasim"
+  },
+  {
+    "kata_baku": "Leding",
+    "kata_tidak_baku": "ledeng"
+  },
+  {
+    "kata_baku": "Legalisasi",
+    "kata_tidak_baku": "legalisir"
+  },
+  {
+    "kata_baku": "Lemari",
+    "kata_tidak_baku": "almari"
+  },
+  {
+    "kata_baku": "Lembap",
+    "kata_tidak_baku": "lembab"
+  },
+  {
+    "kata_baku": "Leukemia",
+    "kata_tidak_baku": "leukimia"
+  },
+  {
+    "kata_baku": "Leveransir",
+    "kata_tidak_baku": "laveransir"
+  },
+  {
+    "kata_baku": "Linear",
+    "kata_tidak_baku": "linier"
+  },
+  {
+    "kata_baku": "Litoral",
+    "kata_tidak_baku": "literal"
+  },
+  {
+    "kata_baku": "Lobi",
+    "kata_tidak_baku": "loby"
+  },
+  {
+    "kata_baku": "Lokalisasi",
+    "kata_tidak_baku": "lokalisir"
+  },
+  {
+    "kata_baku": "Longmars",
+    "kata_tidak_baku": "long march"
+  },
+  {
+    "kata_baku": "Lubang",
+    "kata_tidak_baku": "lobang"
+  },
+  {
+    "kata_baku": "Lusin",
+    "kata_tidak_baku": "losin"
+  },
+  {
+    "kata_baku": "Mafhum",
+    "kata_tidak_baku": "mafum"
+  },
+  {
+    "kata_baku": "Mag",
+    "kata_tidak_baku": "maag"
+  },
+  {
+    "kata_baku": "Magnet",
+    "kata_tidak_baku": "mahnet"
+  },
+  {
+    "kata_baku": "Magrib",
+    "kata_tidak_baku": "maghrib"
+  },
+  {
+    "kata_baku": "Maizena",
+    "kata_tidak_baku": "maisena"
+  },
+  {
+    "kata_baku": "Majelis",
+    "kata_tidak_baku": "majilis"
+  },
+  {
+    "kata_baku": "Mak comblang",
+    "kata_tidak_baku": "makcomblang"
+  },
+  {
+    "kata_baku": "Makhdum",
+    "kata_tidak_baku": "makdum"
+  },
+  {
+    "kata_baku": "Makhluk",
+    "kata_tidak_baku": "mahluk"
+  },
+  {
+    "kata_baku": "Makroekonomi",
+    "kata_tidak_baku": "makro ekonomi"
+  },
+  {
+    "kata_baku": "Malapraktik",
+    "kata_tidak_baku": "malpraktek"
+  },
+  {
+    "kata_baku": "Mampat",
+    "kata_tidak_baku": "mampet"
+  },
+  {
+    "kata_baku": "Manajemen",
+    "kata_tidak_baku": "managemen"
+  },
+  {
+    "kata_baku": "Manajer",
+    "kata_tidak_baku": "manager"
+  },
+  {
+    "kata_baku": "Mandek",
+    "kata_tidak_baku": "mandeg"
+  },
+  {
+    "kata_baku": "Mangkuk",
+    "kata_tidak_baku": "mangkok"
+  },
+  {
+    "kata_baku": "Manuskrip",
+    "kata_tidak_baku": "manuskrif"
+  },
+  {
+    "kata_baku": "Maraton",
+    "kata_tidak_baku": "marathon"
+  },
+  {
+    "kata_baku": "Margarin",
+    "kata_tidak_baku": "margarine"
+  },
+  {
+    "kata_baku": "Marginal",
+    "kata_tidak_baku": "marjinal"
+  },
+  {
+    "kata_baku": "Masjid",
+    "kata_tidak_baku": "mesjid"
+  },
+  {
+    "kata_baku": "Masyhur",
+    "kata_tidak_baku": "mashur"
+  },
+  {
+    "kata_baku": "Matang",
+    "kata_tidak_baku": "mateng"
+  },
+  {
+    "kata_baku": "Mazhab",
+    "kata_tidak_baku": "madzab"
+  },
+  {
+    "kata_baku": "Memerhatikan",
+    "kata_tidak_baku": "memperhatikan"
+  },
+  {
+    "kata_baku": "Memerintah",
+    "kata_tidak_baku": "memperintah"
+  },
+  {
+    "kata_baku": "Memerlukan",
+    "kata_tidak_baku": "memperlukan"
+  },
+  {
+    "kata_baku": "Memesona",
+    "kata_tidak_baku": "mempesona"
+  },
+  {
+    "kata_baku": "Mengapa",
+    "kata_tidak_baku": "kenapa"
+  },
+  {
+    "kata_baku": "Mengubah",
+    "kata_tidak_baku": "merubah"
+  },
+  {
+    "kata_baku": "Menteri",
+    "kata_tidak_baku": "mentri"
+  },
+  {
+    "kata_baku": "Mentimun",
+    "kata_tidak_baku": "timun"
+  },
+  {
+    "kata_baku": "Menyontek",
+    "kata_tidak_baku": "mencontek"
+  },
+  {
+    "kata_baku": "Menyukseskan",
+    "kata_tidak_baku": "mensukseskan"
+  },
+  {
+    "kata_baku": "Merek",
+    "kata_tidak_baku": "merk"
+  },
+  {
+    "kata_baku": "Meterai",
+    "kata_tidak_baku": "materai"
+  },
+  {
+    "kata_baku": "Metode",
+    "kata_tidak_baku": "metoda"
+  },
+  {
+    "kata_baku": "Miliar",
+    "kata_tidak_baku": "milyar"
+  },
+  {
+    "kata_baku": "Modern",
+    "kata_tidak_baku": "moderen"
+  },
+  {
+    "kata_baku": "Mozaik",
+    "kata_tidak_baku": "mosaik"
+  },
+  {
+    "kata_baku": "Musabab",
+    "kata_tidak_baku": "sebab-musabab"
+  },
+  {
+    "kata_baku": "Museum",
+    "kata_tidak_baku": "musium"
+  },
+  {
+    "kata_baku": "Nafsu",
+    "kata_tidak_baku": "napsu"
+  },
+  {
+    "kata_baku": "Nahas",
+    "kata_tidak_baku": "naas"
+  },
+  {
+    "kata_baku": "Nakhoda",
+    "kata_tidak_baku": "nahkoda, nakoda, nangkoda"
+  },
+  {
+    "kata_baku": "Nanas",
+    "kata_tidak_baku": "nenas"
+  },
+  {
+    "kata_baku": "Napas",
+    "kata_tidak_baku": "nafas"
+  },
+  {
+    "kata_baku": "Narasumber",
+    "kata_tidak_baku": "nara sumber"
+  },
+  {
+    "kata_baku": "Nasihat",
+    "kata_tidak_baku": "nasehat"
+  },
+  {
+    "kata_baku": "Nazar",
+    "kata_tidak_baku": "nadzar"
+  },
+  {
+    "kata_baku": "Neokolonialisme",
+    "kata_tidak_baku": "neo-kolonialisme"
+  },
+  {
+    "kata_baku": "Neto",
+    "kata_tidak_baku": "netto"
+  },
+  {
+    "kata_baku": "Netralisasi",
+    "kata_tidak_baku": "netralisir"
+  },
+  {
+    "kata_baku": "Nifas",
+    "kata_tidak_baku": "nipas"
+  },
+  {
+    "kata_baku": "Nomor",
+    "kata_tidak_baku": "nomer"
+  },
+  {
+    "kata_baku": "Nonaktif",
+    "kata_tidak_baku": "non aktif"
+  },
+  {
+    "kata_baku": "Nonformal",
+    "kata_tidak_baku": "non formal"
+  },
+  {
+    "kata_baku": "Notula",
+    "kata_tidak_baku": "notulen"
+  },
+  {
+    "kata_baku": "November",
+    "kata_tidak_baku": "nopember"
+  },
+  {
+    "kata_baku": "Objek",
+    "kata_tidak_baku": "obyek"
+  },
+  {
+    "kata_baku": "Objektif",
+    "kata_tidak_baku": "obyektif"
+  },
+  {
+    "kata_baku": "Ojek",
+    "kata_tidak_baku": "ojeg"
+  },
+  {
+    "kata_baku": "Olahraga",
+    "kata_tidak_baku": "olah raga"
+  },
+  {
+    "kata_baku": "Omzet",
+    "kata_tidak_baku": "omset"
+  },
+  {
+    "kata_baku": "Orang tua",
+    "kata_tidak_baku": "orangtua"
+  },
+  {
+    "kata_baku": "Oranye",
+    "kata_tidak_baku": "orange"
+  },
+  {
+    "kata_baku": "Organisasi",
+    "kata_tidak_baku": "organisir"
+  },
+  {
+    "kata_baku": "Orisinal",
+    "kata_tidak_baku": "orisinil"
+  },
+  {
+    "kata_baku": "Orkestra",
+    "kata_tidak_baku": "orchestra"
+  },
+  {
+    "kata_baku": "Osmose",
+    "kata_tidak_baku": "osmosis"
+  },
+  {
+    "kata_baku": "Otomatis",
+    "kata_tidak_baku": "Automatis"
+  },
+  {
+    "kata_baku": "Paderi",
+    "kata_tidak_baku": "padri"
+  },
+  {
+    "kata_baku": "Paham",
+    "kata_tidak_baku": "faham"
+  },
+  {
+    "kata_baku": "Palm",
+    "kata_tidak_baku": "palem"
+  },
+  {
+    "kata_baku": "Pamflet",
+    "kata_tidak_baku": "famplet, pamfelet"
+  },
+  {
+    "kata_baku": "Pancaindera",
+    "kata_tidak_baku": "panca indra"
+  },
+  {
+    "kata_baku": "Pankreas",
+    "kata_tidak_baku": "pangkreas"
+  },
+  {
+    "kata_baku": "Paradoks",
+    "kata_tidak_baku": "paradox"
+  },
+  {
+    "kata_baku": "Paramedis",
+    "kata_tidak_baku": "paramedik"
+  },
+  {
+    "kata_baku": "Parasut",
+    "kata_tidak_baku": "parasit"
+  },
+  {
+    "kata_baku": "Parogog",
+    "kata_tidak_baku": "paragoge"
+  },
+  {
+    "kata_baku": "Pascapanen",
+    "kata_tidak_baku": "pasca panen"
+  },
+  {
+    "kata_baku": "Pasfoto",
+    "kata_tidak_baku": "pas photo"
+  },
+  {
+    "kata_baku": "Pasif",
+    "kata_tidak_baku": "pasive"
+  },
+  {
+    "kata_baku": "Paspor",
+    "kata_tidak_baku": "pasport"
+  },
+  {
+    "kata_baku": "Paten",
+    "kata_tidak_baku": "patent"
+  },
+  {
+    "kata_baku": "Paviliun",
+    "kata_tidak_baku": "pavilyun"
+  },
+  {
+    "kata_baku": "Pedas",
+    "kata_tidak_baku": "pedes"
+  },
+  {
+    "kata_baku": "Pedepokan",
+    "kata_tidak_baku": "padepokan"
+  },
+  {
+    "kata_baku": "Peduli",
+    "kata_tidak_baku": "perduli"
+  },
+  {
+    "kata_baku": "Pelesetan",
+    "kata_tidak_baku": "plesetan"
+  },
+  {
+    "kata_baku": "Pelesir",
+    "kata_tidak_baku": "plesir"
+  },
+  {
+    "kata_baku": "Peleton",
+    "kata_tidak_baku": "pleton"
+  },
+  {
+    "kata_baku": "Pelihara",
+    "kata_tidak_baku": "peliara, piara"
+  },
+  {
+    "kata_baku": "Pelintir",
+    "kata_tidak_baku": "plintir"
+  },
+  {
+    "kata_baku": "Pembaruan",
+    "kata_tidak_baku": "pembaharuan"
+  },
+  {
+    "kata_baku": "Pemirsa",
+    "kata_tidak_baku": "pirsawan"
+  },
+  {
+    "kata_baku": "Penasihat",
+    "kata_tidak_baku": "penasehat"
+  },
+  {
+    "kata_baku": "Penembahan",
+    "kata_tidak_baku": "panembahan"
+  },
+  {
+    "kata_baku": "Perajin",
+    "kata_tidak_baku": "pengrajin"
+  },
+  {
+    "kata_baku": "Peranti",
+    "kata_tidak_baku": "piranti"
+  },
+  {
+    "kata_baku": "Perkedel",
+    "kata_tidak_baku": "pergedel"
+  },
+  {
+    "kata_baku": "Permukiman",
+    "kata_tidak_baku": "pemukiman"
+  },
+  {
+    "kata_baku": "Persentase",
+    "kata_tidak_baku": "presentase, prosentase"
+  },
+  {
+    "kata_baku": "Perusak",
+    "kata_tidak_baku": "pengrusak"
+  },
+  {
+    "kata_baku": "Petai",
+    "kata_tidak_baku": "pete, petay"
+  },
+  {
+    "kata_baku": "Pikir",
+    "kata_tidak_baku": "fikir"
+  },
+  {
+    "kata_baku": "Praktik",
+    "kata_tidak_baku": "praktek"
+  },
+  {
+    "kata_baku": "Prancis",
+    "kata_tidak_baku": "perancis"
+  },
+  {
+    "kata_baku": "Prangko",
+    "kata_tidak_baku": "perangko"
+  },
+  {
+    "kata_baku": "Proaktif",
+    "kata_tidak_baku": "pro aktif"
+  },
+  {
+    "kata_baku": "Provinsi",
+    "kata_tidak_baku": "propinsi"
+  },
+  {
+    "kata_baku": "Proyek",
+    "kata_tidak_baku": "project"
+  },
+  {
+    "kata_baku": "Putra",
+    "kata_tidak_baku": "putera"
+  },
+  {
+    "kata_baku": "Putri",
+    "kata_tidak_baku": "puteri"
+  },
+  {
+    "kata_baku": "Rabu",
+    "kata_tidak_baku": "rebo"
+  },
+  {
+    "kata_baku": "Radioaktif",
+    "kata_tidak_baku": "radio aktif"
+  },
+  {
+    "kata_baku": "Rakaat",
+    "kata_tidak_baku": "rekaat"
+  },
+  {
+    "kata_baku": "Ramai",
+    "kata_tidak_baku": "rame"
+  },
+  {
+    "kata_baku": "Ranking",
+    "kata_tidak_baku": "rangking"
+  },
+  {
+    "kata_baku": "Ransel",
+    "kata_tidak_baku": "rangsel"
+  },
+  {
+    "kata_baku": "Rapi",
+    "kata_tidak_baku": "rapih"
+  },
+  {
+    "kata_baku": "Rapor",
+    "kata_tidak_baku": "raport"
+  },
+  {
+    "kata_baku": "Rasional",
+    "kata_tidak_baku": "rasionil"
+  },
+  {
+    "kata_baku": "Razia",
+    "kata_tidak_baku": "rajia, rasia"
+  },
+  {
+    "kata_baku": "Real",
+    "kata_tidak_baku": "riil"
+  },
+  {
+    "kata_baku": "Realisasi",
+    "kata_tidak_baku": "realisir"
+  },
+  {
+    "kata_baku": "Realitas",
+    "kata_tidak_baku": "realita"
+  },
+  {
+    "kata_baku": "Relief",
+    "kata_tidak_baku": "relif"
+  },
+  {
+    "kata_baku": "Religius",
+    "kata_tidak_baku": "relijius"
+  },
+  {
+    "kata_baku": "Rematik",
+    "kata_tidak_baku": "reumatik"
+  },
+  {
+    "kata_baku": "Renaisans",
+    "kata_tidak_baku": "renaisan"
+  },
+  {
+    "kata_baku": "Reptilia",
+    "kata_tidak_baku": "reptil"
+  },
+  {
+    "kata_baku": "Reservoir",
+    "kata_tidak_baku": "reservoar"
+  },
+  {
+    "kata_baku": "Respons",
+    "kata_tidak_baku": "respon"
+  },
+  {
+    "kata_baku": "Restoran",
+    "kata_tidak_baku": "restauran"
+  },
+  {
+    "kata_baku": "Resume",
+    "kata_tidak_baku": "resum"
+  },
+  {
+    "kata_baku": "Rezeki",
+    "kata_tidak_baku": "rejeki, rizeki, rizki"
+  },
+  {
+    "kata_baku": "Rezim",
+    "kata_tidak_baku": "regim"
+  },
+  {
+    "kata_baku": "Rida",
+    "kata_tidak_baku": "ridho, ridha"
+  },
+  {
+    "kata_baku": "Risiko",
+    "kata_tidak_baku": "resiko"
+  },
+  {
+    "kata_baku": "Ritme",
+    "kata_tidak_baku": "ritma"
+  },
+  {
+    "kata_baku": "Rontgen",
+    "kata_tidak_baku": "ronsen"
+  },
+  {
+    "kata_baku": "Rubuh",
+    "kata_tidak_baku": "roboh"
+  },
+  {
+    "kata_baku": "Saf",
+    "kata_tidak_baku": "shaf"
+  },
+  {
+    "kata_baku": "Sah",
+    "kata_tidak_baku": "syah"
+  },
+  {
+    "kata_baku": "Sahabat",
+    "kata_tidak_baku": "sobat"
+  },
+  {
+    "kata_baku": "Sahaja",
+    "kata_tidak_baku": "sehaja"
+  },
+  {
+    "kata_baku": "Sahdu",
+    "kata_tidak_baku": "syahdu"
+  },
+  {
+    "kata_baku": "Sahib",
+    "kata_tidak_baku": "sokhib"
+  },
+  {
+    "kata_baku": "Sajak",
+    "kata_tidak_baku": "sanjak"
+  },
+  {
+    "kata_baku": "Sakaguru",
+    "kata_tidak_baku": "saka guru guru"
+  },
+  {
+    "kata_baku": "Sakelar",
+    "kata_tidak_baku": "saklar"
+  },
+  {
+    "kata_baku": "Saksama",
+    "kata_tidak_baku": "seksama"
+  },
+  {
+    "kata_baku": "Salat",
+    "kata_tidak_baku": "shalat, sholat"
+  },
+  {
+    "kata_baku": "Sambal",
+    "kata_tidak_baku": "sambel"
+  },
+  {
+    "kata_baku": "Sampo",
+    "kata_tidak_baku": "shampo"
+  },
+  {
+    "kata_baku": "Samudra",
+    "kata_tidak_baku": "samudera"
+  },
+  {
+    "kata_baku": "Sangsi",
+    "kata_tidak_baku": "sanksi"
+  },
+  {
+    "kata_baku": "Sanskerta",
+    "kata_tidak_baku": "sansekerta"
+  },
+  {
+    "kata_baku": "Saraf",
+    "kata_tidak_baku": "syaraf"
+  },
+  {
+    "kata_baku": "Satai",
+    "kata_tidak_baku": "sate"
+  },
+  {
+    "kata_baku": "Saus",
+    "kata_tidak_baku": "saos"
+  },
+  {
+    "kata_baku": "Sedekah",
+    "kata_tidak_baku": "sodakoh"
+  },
+  {
+    "kata_baku": "Sediakala",
+    "kata_tidak_baku": "sedia kala"
+  },
+  {
+    "kata_baku": "Sein",
+    "kata_tidak_baku": "seign"
+  },
+  {
+    "kata_baku": "Sekadar",
+    "kata_tidak_baku": "sekedar"
+  },
+  {
+    "kata_baku": "Sekop",
+    "kata_tidak_baku": "skop"
+  },
+  {
+    "kata_baku": "Sekretaris",
+    "kata_tidak_baku": "sekertaris"
+  },
+  {
+    "kata_baku": "Sekte",
+    "kata_tidak_baku": "sekta"
+  },
+  {
+    "kata_baku": "Sekular",
+    "kata_tidak_baku": "sekuler"
+  },
+  {
+    "kata_baku": "Selebritas",
+    "kata_tidak_baku": "selebriti"
+  },
+  {
+    "kata_baku": "Selektivitas",
+    "kata_tidak_baku": "selektifitas"
+  },
+  {
+    "kata_baku": "Selendro",
+    "kata_tidak_baku": "slendro"
+  },
+  {
+    "kata_baku": "Selulosa",
+    "kata_tidak_baku": "selulose"
+  },
+  {
+    "kata_baku": "Semadi",
+    "kata_tidak_baku": "semedi"
+  },
+  {
+    "kata_baku": "Sembrana",
+    "kata_tidak_baku": "sembrono"
+  },
+  {
+    "kata_baku": "Semenda",
+    "kata_tidak_baku": "semanda"
+  },
+  {
+    "kata_baku": "Senapati",
+    "kata_tidak_baku": "senopati"
+  },
+  {
+    "kata_baku": "Sengkalan",
+    "kata_tidak_baku": "sangkalan"
+  },
+  {
+    "kata_baku": "Sengse",
+    "kata_tidak_baku": "sinse"
+  },
+  {
+    "kata_baku": "Sentigram",
+    "kata_tidak_baku": "centigram"
+  },
+  {
+    "kata_baku": "Sentimental",
+    "kata_tidak_baku": "sentimentil"
+  },
+  {
+    "kata_baku": "Sentimeter",
+    "kata_tidak_baku": "centimeter"
+  },
+  {
+    "kata_baku": "Sentosa",
+    "kata_tidak_baku": "sentausa"
+  },
+  {
+    "kata_baku": "Sentral",
+    "kata_tidak_baku": "central"
+  },
+  {
+    "kata_baku": "Sepatbor",
+    "kata_tidak_baku": "sepakbor"
+  },
+  {
+    "kata_baku": "Seprai",
+    "kata_tidak_baku": "seprei"
+  },
+  {
+    "kata_baku": "Sepur",
+    "kata_tidak_baku": "spor"
+  },
+  {
+    "kata_baku": "Serban",
+    "kata_tidak_baku": "sorban"
+  },
+  {
+    "kata_baku": "Serbaneka",
+    "kata_tidak_baku": "serba aneka"
+  },
+  {
+    "kata_baku": "Seriawan",
+    "kata_tidak_baku": "sariawan"
+  },
+  {
+    "kata_baku": "Serigala",
+    "kata_tidak_baku": "srigala"
+  },
+  {
+    "kata_baku": "Serunai",
+    "kata_tidak_baku": "seruni"
+  },
+  {
+    "kata_baku": "Servis",
+    "kata_tidak_baku": "service"
+  },
+  {
+    "kata_baku": "Setagen",
+    "kata_tidak_baku": "stagen"
+  },
+  {
+    "kata_baku": "Setip",
+    "kata_tidak_baku": "stip"
+  },
+  {
+    "kata_baku": "Setir",
+    "kata_tidak_baku": "stir"
+  },
+  {
+    "kata_baku": "Setrika",
+    "kata_tidak_baku": "seterika"
+  },
+  {
+    "kata_baku": "Setrip",
+    "kata_tidak_baku": "strip"
+  },
+  {
+    "kata_baku": "Seyogianya",
+    "kata_tidak_baku": "seyogyanya"
+  },
+  {
+    "kata_baku": "Siapa pun",
+    "kata_tidak_baku": "siapapun"
+  },
+  {
+    "kata_baku": "Silakan",
+    "kata_tidak_baku": "silahkan"
+  },
+  {
+    "kata_baku": "Silaturahmi",
+    "kata_tidak_baku": "silaturohmi"
+  },
+  {
+    "kata_baku": "Silinder",
+    "kata_tidak_baku": "selinder"
+  },
+  {
+    "kata_baku": "Simpel",
+    "kata_tidak_baku": "simple"
+  },
+  {
+    "kata_baku": "Sinagoge",
+    "kata_tidak_baku": "sinagog"
+  },
+  {
+    "kata_baku": "Sindrom",
+    "kata_tidak_baku": "sindrome"
+  },
+  {
+    "kata_baku": "Sinkop",
+    "kata_tidak_baku": "sinkope"
+  },
+  {
+    "kata_baku": "Sintesis",
+    "kata_tidak_baku": "sintesa"
+  },
+  {
+    "kata_baku": "Sirene",
+    "kata_tidak_baku": "sirine"
+  },
+  {
+    "kata_baku": "Sirup",
+    "kata_tidak_baku": "sirop"
+  },
+  {
+    "kata_baku": "Sistem",
+    "kata_tidak_baku": "sistim"
+  },
+  {
+    "kata_baku": "Ski",
+    "kata_tidak_baku": "sky"
+  },
+  {
+    "kata_baku": "Skolastik",
+    "kata_tidak_baku": "sekolastik"
+  },
+  {
+    "kata_baku": "Skor",
+    "kata_tidak_baku": "score"
+  },
+  {
+    "kata_baku": "Skors",
+    "kata_tidak_baku": "skorsing"
+  },
+  {
+    "kata_baku": "Slang",
+    "kata_tidak_baku": "slank"
+  },
+  {
+    "kata_baku": "Smes",
+    "kata_tidak_baku": "smash"
+  },
+  {
+    "kata_baku": "Sofbal",
+    "kata_tidak_baku": "sofball"
+  },
+  {
+    "kata_baku": "Sopir",
+    "kata_tidak_baku": "supir"
+  },
+  {
+    "kata_baku": "Sop",
+    "kata_tidak_baku": "sup"
+  },
+  {
+    "kata_baku": "Sosiodrama",
+    "kata_tidak_baku": "sosio drama"
+  },
+  {
+    "kata_baku": "Spageti",
+    "kata_tidak_baku": "spagheti"
+  },
+  {
+    "kata_baku": "Spanduk",
+    "kata_tidak_baku": "sepanduk"
+  },
+  {
+    "kata_baku": "Spesial",
+    "kata_tidak_baku": "sepesial"
+  },
+  {
+    "kata_baku": "Spesies",
+    "kata_tidak_baku": "species"
+  },
+  {
+    "kata_baku": "Spionase",
+    "kata_tidak_baku": "sepionase"
+  },
+  {
+    "kata_baku": "Spiritual",
+    "kata_tidak_baku": "spirituil"
+  },
+  {
+    "kata_baku": "Spons",
+    "kata_tidak_baku": "sepon"
+  },
+  {
+    "kata_baku": "Sprin",
+    "kata_tidak_baku": "sprint"
+  },
+  {
+    "kata_baku": "Srek",
+    "kata_tidak_baku": "sreg"
+  },
+  {
+    "kata_baku": "Stan",
+    "kata_tidak_baku": "stand"
+  },
+  {
+    "kata_baku": "Standar",
+    "kata_tidak_baku": "standard"
+  },
+  {
+    "kata_baku": "Standardisasi",
+    "kata_tidak_baku": "standarisasi"
+  },
+  {
+    "kata_baku": "Stanza",
+    "kata_tidak_baku": "stansa"
+  },
+  {
+    "kata_baku": "Starter",
+    "kata_tidak_baku": "stater"
+  },
+  {
+    "kata_baku": "Stereotip",
+    "kata_tidak_baku": "stereotipe"
+  },
+  {
+    "kata_baku": "Stiker",
+    "kata_tidak_baku": "sticker"
+  },
+  {
+    "kata_baku": "Stok",
+    "kata_tidak_baku": "stock"
+  },
+  {
+    "kata_baku": "Stres",
+    "kata_tidak_baku": "stress"
+  },
+  {
+    "kata_baku": "Striker",
+    "kata_tidak_baku": "setriker"
+  },
+  {
+    "kata_baku": "Stroberi",
+    "kata_tidak_baku": "strawberry"
+  },
+  {
+    "kata_baku": "Studi",
+    "kata_tidak_baku": "study"
+  },
+  {
+    "kata_baku": "Subbab",
+    "kata_tidak_baku": "sub bab"
+  },
+  {
+    "kata_baku": "Subjek",
+    "kata_tidak_baku": "subyek"
+  },
+  {
+    "kata_baku": "Subkontraktor",
+    "kata_tidak_baku": "sub kontraktor"
+  },
+  {
+    "kata_baku": "Subsider",
+    "kata_tidak_baku": "subsidair"
+  },
+  {
+    "kata_baku": "Substansi",
+    "kata_tidak_baku": "subtansi"
+  },
+  {
+    "kata_baku": "Substitusi",
+    "kata_tidak_baku": "subtitusi"
+  },
+  {
+    "kata_baku": "Subtropik",
+    "kata_tidak_baku": "sub tropik"
+  },
+  {
+    "kata_baku": "Subunit",
+    "kata_tidak_baku": "sub unit"
+  },
+  {
+    "kata_baku": "Sukacita",
+    "kata_tidak_baku": "suka cita"
+  },
+  {
+    "kata_baku": "Suling",
+    "kata_tidak_baku": "seruling"
+  },
+  {
+    "kata_baku": "Sumatra",
+    "kata_tidak_baku": "sumatera"
+  },
+  {
+    "kata_baku": "Suplemen",
+    "kata_tidak_baku": "saplemen"
+  },
+  {
+    "kata_baku": "Supremasi",
+    "kata_tidak_baku": "supermasi"
+  },
+  {
+    "kata_baku": "Surah",
+    "kata_tidak_baku": "surat"
+  },
+  {
+    "kata_baku": "Surga",
+    "kata_tidak_baku": "sorga"
+  },
+  {
+    "kata_baku": "Survei",
+    "kata_tidak_baku": "survey"
+  },
+  {
+    "kata_baku": "Susastra",
+    "kata_tidak_baku": "susastera"
+  },
+  {
+    "kata_baku": "Sutra",
+    "kata_tidak_baku": "sutera"
+  },
+  {
+    "kata_baku": "Suvenir",
+    "kata_tidak_baku": "souvenir"
+  },
+  {
+    "kata_baku": "Swasembada",
+    "kata_tidak_baku": "swa sembada"
+  },
+  {
+    "kata_baku": "Sweter",
+    "kata_tidak_baku": "suiter, switer"
+  },
+  {
+    "kata_baku": "Swipoa",
+    "kata_tidak_baku": "sempoa"
+  },
+  {
+    "kata_baku": "Syahadat",
+    "kata_tidak_baku": "sahadat"
+  },
+  {
+    "kata_baku": "Syahid",
+    "kata_tidak_baku": "sahid"
+  },
+  {
+    "kata_baku": "Syair",
+    "kata_tidak_baku": "sair"
+  },
+  {
+    "kata_baku": "Syariat",
+    "kata_tidak_baku": "syareat"
+  },
+  {
+    "kata_baku": "Syekh",
+    "kata_tidak_baku": "she"
+  },
+  {
+    "kata_baku": "Syirik",
+    "kata_tidak_baku": "sirik"
+  },
+  {
+    "kata_baku": "Syiwa",
+    "kata_tidak_baku": "siwa"
+  },
+  {
+    "kata_baku": "Syogun",
+    "kata_tidak_baku": "shogun"
+  },
+  {
+    "kata_baku": "Syubhat",
+    "kata_tidak_baku": "syubat"
+  },
+  {
+    "kata_baku": "Tablig",
+    "kata_tidak_baku": "tabligh"
+  },
+  {
+    "kata_baku": "Takhayul",
+    "kata_tidak_baku": "tahayul"
+  },
+  {
+    "kata_baku": "Takhta",
+    "kata_tidak_baku": "tahta"
+  },
+  {
+    "kata_baku": "Taksi",
+    "kata_tidak_baku": "taxi"
+  },
+  {
+    "kata_baku": "Takzim",
+    "kata_tidak_baku": "takjim"
+  },
+  {
+    "kata_baku": "Tampak",
+    "kata_tidak_baku": "nampak"
+  },
+  {
+    "kata_baku": "Tamsil",
+    "kata_tidak_baku": "tamzil"
+  },
+  {
+    "kata_baku": "Tanker",
+    "kata_tidak_baku": "tangker"
+  },
+  {
+    "kata_baku": "Taoco",
+    "kata_tidak_baku": "tauco"
+  },
+  {
+    "kata_baku": "Taoge",
+    "kata_tidak_baku": "tauge"
+  },
+  {
+    "kata_baku": "Tapai",
+    "kata_tidak_baku": "tape"
+  },
+  {
+    "kata_baku": "Taplak",
+    "kata_tidak_baku": "tapelak"
+  },
+  {
+    "kata_baku": "Tarif",
+    "kata_tidak_baku": "tarip"
+  },
+  {
+    "kata_baku": "Tarkhim",
+    "kata_tidak_baku": "tarkim"
+  },
+  {
+    "kata_baku": "Tata niaga",
+    "kata_tidak_baku": "tataniaga"
+  },
+  {
+    "kata_baku": "Tawakal",
+    "kata_tidak_baku": "tawakkal"
+  },
+  {
+    "kata_baku": "Teater",
+    "kata_tidak_baku": "theater"
+  },
+  {
+    "kata_baku": "Tekad",
+    "kata_tidak_baku": "tekat"
+  },
+  {
+    "kata_baku": "Teknik",
+    "kata_tidak_baku": "tehnik"
+  },
+  {
+    "kata_baku": "Teknologi",
+    "kata_tidak_baku": "tekhnologi"
+  },
+  {
+    "kata_baku": "Teladan",
+    "kata_tidak_baku": "taulada"
+  },
+  {
+    "kata_baku": "Telanjur",
+    "kata_tidak_baku": "terlanjur"
+  },
+  {
+    "kata_baku": "Telantar",
+    "kata_tidak_baku": "terlantar"
+  },
+  {
+    "kata_baku": "Telentang",
+    "kata_tidak_baku": "terlentang"
+  },
+  {
+    "kata_baku": "Telepon",
+    "kata_tidak_baku": "telpon"
+  },
+  {
+    "kata_baku": "Telur",
+    "kata_tidak_baku": "telor"
+  },
+  {
+    "kata_baku": "Tenteram",
+    "kata_tidak_baku": "tentram"
+  },
+  {
+    "kata_baku": "Teoretis",
+    "kata_tidak_baku": "teoritis"
+  },
+  {
+    "kata_baku": "Tepercaya",
+    "kata_tidak_baku": "terpercaya"
+  },
+  {
+    "kata_baku": "Terampil",
+    "kata_tidak_baku": "trampil"
+  },
+  {
+    "kata_baku": "Terima kasih",
+    "kata_tidak_baku": "terimakasih"
+  },
+  {
+    "kata_baku": "Tes",
+    "kata_tidak_baku": "test"
+  },
+  {
+    "kata_baku": "Tesis",
+    "kata_tidak_baku": "thesis"
+  },
+  {
+    "kata_baku": "Tetapi",
+    "kata_tidak_baku": "tapi"
+  },
+  {
+    "kata_baku": "Tidak",
+    "kata_tidak_baku": "nggak"
+  },
+  {
+    "kata_baku": "Tiket",
+    "kata_tidak_baku": "ticket"
+  },
+  {
+    "kata_baku": "Tim",
+    "kata_tidak_baku": "team"
+  },
+  {
+    "kata_baku": "Tip",
+    "kata_tidak_baku": "tips"
+  },
+  {
+    "kata_baku": "Tipe",
+    "kata_tidak_baku": "type"
+  },
+  {
+    "kata_baku": "Tobat",
+    "kata_tidak_baku": "taubat"
+  },
+  {
+    "kata_baku": "Tokek",
+    "kata_tidak_baku": "tekek"
+  },
+  {
+    "kata_baku": "Toleransi",
+    "kata_tidak_baku": "tolerir"
+  },
+  {
+    "kata_baku": "Torpedo",
+    "kata_tidak_baku": "terpedo"
+  },
+  {
+    "kata_baku": "Tradisional",
+    "kata_tidak_baku": "tradisionil"
+  },
+  {
+    "kata_baku": "Transpor",
+    "kata_tidak_baku": "transport"
+  },
+  {
+    "kata_baku": "Tur",
+    "kata_tidak_baku": "tour"
+  },
+  {
+    "kata_baku": "Turis",
+    "kata_tidak_baku": "touris"
+  },
+  {
+    "kata_baku": "Ubah",
+    "kata_tidak_baku": "rubah"
+  },
+  {
+    "kata_baku": "Ukulele",
+    "kata_tidak_baku": "okulele"
+  },
+  {
+    "kata_baku": "Ultramodern",
+    "kata_tidak_baku": "ultra modern"
+  },
+  {
+    "kata_baku": "Unta",
+    "kata_tidak_baku": "onta"
+  },
+  {
+    "kata_baku": "Urine",
+    "kata_tidak_baku": "urin"
+  },
+  {
+    "kata_baku": "Utang",
+    "kata_tidak_baku": "hutang"
+  },
+  {
+    "kata_baku": "Vak",
+    "kata_tidak_baku": "fak"
+  },
+  {
+    "kata_baku": "Vaksinasi",
+    "kata_tidak_baku": "faksinasi"
+  },
+  {
+    "kata_baku": "Vakum",
+    "kata_tidak_baku": "fakum"
+  },
+  {
+    "kata_baku": "Valid",
+    "kata_tidak_baku": "falid"
+  },
+  {
+    "kata_baku": "Vampir",
+    "kata_tidak_baku": "vampire"
+  },
+  {
+    "kata_baku": "Vanili",
+    "kata_tidak_baku": "panili"
+  },
+  {
+    "kata_baku": "Variasi",
+    "kata_tidak_baku": "vareasi"
+  },
+  {
+    "kata_baku": "Varietas",
+    "kata_tidak_baku": "varitas"
+  },
+  {
+    "kata_baku": "Vas",
+    "kata_tidak_baku": "fas"
+  },
+  {
+    "kata_baku": "Vegetaris",
+    "kata_tidak_baku": "vegetarian"
+  },
+  {
+    "kata_baku": "Verifikasi",
+    "kata_tidak_baku": "veripikasi"
+  },
+  {
+    "kata_baku": "Vermak",
+    "kata_tidak_baku": "vermaks"
+  },
+  {
+    "kata_baku": "Video",
+    "kata_tidak_baku": "vidio"
+  },
+  {
+    "kata_baku": "Vila",
+    "kata_tidak_baku": "villa"
+  },
+  {
+    "kata_baku": "Vinyet",
+    "kata_tidak_baku": "vignet"
+  },
+  {
+    "kata_baku": "Volume",
+    "kata_tidak_baku": "volum"
+  },
+  {
+    "kata_baku": "Wiraswasta",
+    "kata_tidak_baku": "wirausaha"
+  },
+  {
+    "kata_baku": "Yogyakarta",
+    "kata_tidak_baku": "jogjakarta"
+  },
+  {
+    "kata_baku": "Yudikatif",
+    "kata_tidak_baku": "judikatif"
+  },
+  {
+    "kata_baku": "Yudisial",
+    "kata_tidak_baku": "judisial"
+  },
+  {
+    "kata_baku": "Yurisdiksi",
+    "kata_tidak_baku": "jurisdiksi"
+  },
+  {
+    "kata_baku": "Zaman",
+    "kata_tidak_baku": "jaman"
+  },
+  {
+    "kata_baku": "Zamzam",
+    "kata_tidak_baku": "zam-zam"
+  },
+  {
+    "kata_baku": "Zhuhur",
+    "kata_tidak_baku": "dzuhur"
+  },
+  {
+    "kata_baku": "Zigot",
+    "kata_tidak_baku": "zigote"
+  },
+  {
+    "kata_baku": "Zig-zag",
+    "kata_tidak_baku": "zigzag"
+  },
+  {
+    "kata_baku": "Ziter",
+    "kata_tidak_baku": "sitar"
+  },
+  {
+    "kata_baku": "Zona",
+    "kata_tidak_baku": "zone"
+  }
+]
